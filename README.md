@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Jai Gora
 
 #### Student at Shri Mata Vaishno Devi University
- * A curious programmer💻🎧| Java, C, Python
+ * A curious programmer💻🎧| Java, Python
  * Software Developer </> 💻
  * Creative mind 💭
 
