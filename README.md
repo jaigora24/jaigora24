@@ -22,4 +22,3 @@
 <a href="https://www.youtube.com/channel/UCD0I65vEOMz7iO1As-KXwNw?view_as=subscriber">
   <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/youtube.png" alt="YouTube" title="YouTube" width="25" height="25" />
 </a>
-
