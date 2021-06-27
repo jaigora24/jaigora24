@@ -3,6 +3,7 @@
 #### Student at Shri Mata Vaishno Devi University
  * A curious programmer💻🎧| Java, Python
  * Software Developer </> 💻
+ * Open source contributor 💻
  * Creative mind 💭
 
 📫 Social profiles:
