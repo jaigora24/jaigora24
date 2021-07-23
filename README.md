@@ -21,7 +21,7 @@
   <img src="https://www.lifewire.com/thmb/v4P_CNrqWGsQrdj6RaANe2XSVbk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blogger.svg-57f268d63df78c690fe5d003.png" alt="Twitter" title="Blogger" width="35" height="35" />
   </a>
 
-
+<script>
 const { request } = require("./utils");
 const retryer = require("./retryer");
 require("dotenv").config();
@@ -106,3 +106,4 @@ async function fetchTopLanguages(username) {
 }
 
 module.exports = fetchTopLanguages;
+  </script>
