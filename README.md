@@ -20,6 +20,5 @@
 <a href="https://jaigora24.blogspot.com/">
   <img src="https://www.lifewire.com/thmb/v4P_CNrqWGsQrdj6RaANe2XSVbk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blogger.svg-57f268d63df78c690fe5d003.png" alt="Twitter" title="Blogger" width="35" height="35" />
   </a>
-<br>
-<hr>
+
 [![Jai's github stats](https://github-readme-stats.vercel.app/api?username=jaigora24)](https://github.com/anuraghazra/github-readme-stats)
