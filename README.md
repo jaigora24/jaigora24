@@ -10,9 +10,11 @@
 <a href="https://www.linkedin.com/in/jai-gora-893343194/">
   <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="LinkedIn" title="LinkedIn" width="35" height="35" />
 </a>
+
 <a href="https://twitter.com/jaigora24/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="35" height="35" />
 </a>
+
 <a href="https://www.instagram.com/jaigora24/">
   <img src=http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png alt="Instagram" title="Instagram" width="35" height="35" />
   </a>
