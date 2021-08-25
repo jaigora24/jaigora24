@@ -2,7 +2,7 @@
 
 #### Student at Shri Mata Vaishno Devi University
  * A curious programmer💻🎧
- * Software Developer </> 💻
+ <!-- * Software Developer </> 💻 -->
  * Open source contributor 💻
  * Creative mind 💭
 
