@@ -16,9 +16,9 @@
 <a href="https://www.instagram.com/jaigora24/">
   <img src=http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png alt="Instagram" title="Instagram" width="35" height="35" />
   </a>
-<a href="https://jaigora24.blogspot.com/">
+<!-- <a href="https://jaigora24.blogspot.com/">
   <img src="https://www.lifewire.com/thmb/v4P_CNrqWGsQrdj6RaANe2XSVbk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blogger.svg-57f268d63df78c690fe5d003.png" alt="Twitter" title="Blogger" width="35" height="35" />
-  </a><hr>
+  </a><hr>  -->
 <!--
 [![Jai's github stats](https://github-readme-stats.vercel.app/api?username=jaigora24)](https://github.com/anuraghazra/github-readme-stats)
 Github stats-->
