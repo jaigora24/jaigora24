@@ -25,3 +25,4 @@
 [![Jai's github stats](https://github-readme-stats.vercel.app/api?username=jaigora24)](https://github.com/anuraghazra/github-readme-stats)
 Github stats-->
 <!-- * Software Developer </> 💻 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaigora24&show_icons=true&locale=en&layout=compact" alt="jaigora24" /></p>
