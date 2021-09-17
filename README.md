@@ -25,8 +25,7 @@
 [![Jai's github stats](https://github-readme-stats.vercel.app/api?username=jaigora24)](https://github.com/anuraghazra/github-readme-stats)
 Github stats-->
 <!-- * Software Developer </> 💻 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaigora24&show_icons=true&locale=en&layout=compact" alt="jaigora24" /></p><br></br>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaigora24&show_icons=true&locale=en&layout=compact" alt="jaigora24" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaigora24&show_icons=true&locale=en" alt="jaigora24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaigora24&" alt="jaigora24" /></p>
