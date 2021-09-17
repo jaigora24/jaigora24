@@ -27,4 +27,4 @@ Github stats-->
 <!-- * Software Developer </> 💻 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaigora24&show_icons=true&locale=en&layout=compact" alt="jaigora24" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaigora24&" alt="jaigora24" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaigora24&" alt="jaigora24" /></p>
