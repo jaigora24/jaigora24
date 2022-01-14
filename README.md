@@ -37,3 +37,6 @@ Github stats-->
 -->
 <br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaigora24&" alt="jaigora24" /></p>
+<br>
+![](https://github.com/jaigora24/stats/blob/master/generated/languages.svg)
+![](https://github.com/jaigora24/stats/blob/master/generated/overview.svg)
