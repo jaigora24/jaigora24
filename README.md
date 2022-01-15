@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Jai Gora
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaigora24&label=Profile%20Views&color=0e75b6&style=flat" alt="Jai Gora" /> </p>
+
 #### Student at Shri Mata Vaishno Devi University
  * A curious programmer💻🎧
  * Open source contributor 💻
