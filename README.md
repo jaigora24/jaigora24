@@ -41,4 +41,4 @@ Github stats-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaigora24&" alt="jaigora24" /></p>
 <br>
 
-[![Jai Gora's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaigora24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jai Gora github contribution graph](https://activity-graph.herokuapp.com/graph?username=jaigora24&bg_color=000000&color=ffffff&line=0008f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
