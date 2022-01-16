@@ -40,3 +40,5 @@ Github stats-->
 <br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaigora24&" alt="jaigora24" /></p>
 <br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaigora24)](https://github.com/ashutosh00710/github-readme-activity-graph)
