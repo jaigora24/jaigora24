@@ -34,7 +34,8 @@
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%23563D7C.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/aws-ED8B00?style=for-the-badge&logo=aws&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/sql%20-%2314354C.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/aws-ED8B00?style=for-the-badge&logo=aws&logoColor=white"/>
 <img alt="Verilog" src="https://img.shields.io/badge/verilog%20-%23E34F26.svg?&style=for-the-badge&logo=verilog&logoColor=white"/>
 
   
