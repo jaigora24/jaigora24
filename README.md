@@ -28,7 +28,7 @@
 <p align="center">
 <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c%20-%23323330.svg?&style=for-the-badge&logo=c&logoColor=%23F7DF1E"//>
+<img alt="Sprng Boot" src="https://img.shields.io/badge/sprng-boot%20-%23323330.svg?&style=for-the-badge&logo=sprng-boot&logoColor=%23F7DF1E"//>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%23563D7C.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -36,7 +36,7 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="SQL" src="https://img.shields.io/badge/sql%20-%2314354C.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 <img alt="GCP" src="https://img.shields.io/badge/gcp-ED8B00?style=for-the-badge&logo=gcp&logoColor=white"/>
-<img alt="Verilog" src="https://img.shields.io/badge/verilog%20-%23E34F26.svg?&style=for-the-badge&logo=verilog&logoColor=white"/>
+<img alt="Hbernate" src="https://img.shields.io/badge/hbernate%20-%23E34F26.svg?&style=for-the-badge&logo=hbernate&logoColor=white"/>
 
   
 </p>
