@@ -22,7 +22,9 @@
   </a><br></br>
 <!-- <a href="https://jaigora24.blogspot.com/">
   <img src="https://www.lifewire.com/thmb/v4P_CNrqWGsQrdj6RaANe2XSVbk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blogger.svg-57f268d63df78c690fe5d003.png" alt="Twitter" title="Blogger" width="35" height="35" />
-  </a><hr>  -->
+  </a><hr>  
+
+
   <h2 align="left">Tech Stack I am Familiar with <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1>
  
 <p align="center">
@@ -40,6 +42,7 @@
 
   
 </p>
+-->
   <!--
   <p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
